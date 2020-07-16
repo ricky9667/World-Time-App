@@ -1,16 +1,14 @@
-# world_time
+# World Time
 
-A new Flutter application.
+- A flutter app that displays current time in different regions or locations.
+- **Just a simple app for practicing [Flutter](https://flutter.dev/)
 
-## Getting Started
+### API Introduction
 
-This project is a starting point for a Flutter application.
+- This app fetches data from [World Time API](http://worldtimeapi.org/)
+- World Time API provides time data from a variety of locations with simple JSON/plain text data for users.
 
-A few resources to get you started if this is your first Flutter project:
+### About the App
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- This app is from a tutorial by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- To watch his tutorial, please visit [Flutter Tutorial for Beginners - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
