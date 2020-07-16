@@ -1,7 +1,7 @@
 # World Time
 
 - A flutter app that displays current time in different regions or locations.
-- **Just a simple app for practicing [Flutter](https://flutter.dev/)
+- Just a simple app for practicing [Flutter](https://flutter.dev/)
 
 ### API Introduction
 
