@@ -36,10 +36,4 @@ class _ChooseLocationState extends State<ChooseLocation> {
       ),
     );
   }
-
-  Widget buildPasswordText() {
-    return Text(
-      ""
-    );
-  }
 }
